@@ -1,4 +1,4 @@
-# Logs
+# Logs propios del Pc. La carpeta de distribución... etc...
 logs
 *.log
 npm-debug.log*
@@ -13,10 +13,11 @@ dist-ssr
 *.local
 
 # Editor directories and files
+#.DS_Store archovos vasura
 .vscode/*
 !.vscode/extensions.json
 .idea
-.DS_Store
+.DS_Store       
 *.suo
 *.ntvs*
 *.njsproj
